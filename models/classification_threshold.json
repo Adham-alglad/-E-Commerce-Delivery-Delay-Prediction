@@ -1,0 +1,6 @@
+{
+    "classification_threshold": 0.45847966937272533,
+    "model_name": "Tuned Random Forest",
+    "positive_class": 1,
+    "positive_class_label": "Late"
+}
