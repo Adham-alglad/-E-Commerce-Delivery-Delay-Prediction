@@ -68,6 +68,12 @@ The project includes a Streamlit web application with:
 - A prediction page
 - A model training journey page
 - An EDA dashboard page
+- 
+## Acknowledgement
+
+This project was developed as part of the Data Science Final Project for Epsilon AI.
+
+Main Epsilon AI repository: To be added after instructor confirmation.
 
 ## How to Run the App Locally
 
